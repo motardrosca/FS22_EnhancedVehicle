@@ -16,7 +16,7 @@
     <text name="input_FS22_EnhancedVehicle_SNAP_GRID_RESET" text="EV: (Re)calculate track display"/>
     <text name="input_FS22_EnhancedVehicle_SNAP_TRACK_1"    text="EV: Increase amount of turnover tracks"/>
     <text name="input_FS22_EnhancedVehicle_SNAP_TRACK_2"    text="EV: Decrease amount of turnover tracks"/>
-    <text name="input_FS22_EnhancedVehicle_SNAP_TRACKP_1"   text="EV: Move tracks to the right"/>
+    <text name="input_FS22_EnhancedVehicle_SNAP_TRACKP_1"   text="EV: Mova as linhas para a direita"/>
     <text name="input_FS22_EnhancedVehicle_SNAP_TRACKP_2"   text="EV: Move tracks to the left"/>
     <text name="input_FS22_EnhancedVehicle_SNAP_TRACKW_1"   text="EV: Increase width of tracks"/>
     <text name="input_FS22_EnhancedVehicle_SNAP_TRACKW_2"   text="EV: Decrease width of tracks"/>
